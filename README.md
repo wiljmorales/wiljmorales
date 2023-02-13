@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/wiljmorales" target="blank"><img src="https://img.shields.io/twitter/follow/wiljmorales?logo=twitter&style=for-the-badge" alt="wiljmorales" /></a> </p>
 
-- 🔭 I’m currently working on [La Canchita](https://github.com/wiljmorales/la-canchita)
+- 🔭 I’m currently working on [TheGrint](https://thegrint.com)
 
 - 🌱 I’m currently learning **Full Stack development with React, Next, Node, and Express**
 
-- 💬 Ask me about **CSS, JavaScript, React and Python**
+- 💬 Ask me about **CSS, JavaScript, React and Python, Next, Php**
 
 - 📫 How to reach me **wiljmoralesa@gmail.com**
 
