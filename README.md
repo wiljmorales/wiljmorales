@@ -31,7 +31,8 @@ services at once.
 **Backend** · PHP · Laravel · Lumen · CodeIgniter · REST APIs · Python · Flask
 **Frontend** · JavaScript · TypeScript · React · Next.js · Tailwind CSS
 **Data** · MySQL / MariaDB · PostgreSQL · Supabase · Eloquent
-**Tools** · Git · Linux · Docker · Postman · Figma
+**Architecture & testing** · Hexagonal architecture · Domain events · E2E testing · Vitest
+**Tools & cloud** · Git · GitHub Actions · Docker · Linux · AWS Lambda · AWS Amplify
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -54,9 +55,3 @@ services at once.
 |---|---|---|
 | [familia-ponquesito](https://github.com/wiljmorales/familia-ponquesito) | Product site and quote-request flow for a family bakery in Barquisimeto, built for the Platzi Vibe Coding Challenge — [live](https://familia-ponquesito.vercel.app) | Next.js · TypeScript · Supabase |
 | [nuestro-cofrecito](https://github.com/wiljmorales/nuestro-cofrecito) | Income-proportional expense calculator for couples — zero dependencies, zero build, no runtime network calls — [live](https://nuestro-cofrecito.vercel.app) | Vanilla JS · CSS · localStorage |
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wiljmorales&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0d1117" alt="wiljmorales" />
-</p>
