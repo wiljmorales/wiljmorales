@@ -53,5 +53,6 @@ services at once.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [no-more-loop](https://github.com/wiljmorales/no-more-loop) | Chromium extension that adds deliberate friction to YouTube Shorts — asks for an intent and a duration before letting you in, then interrupts when the time is up. Sessions belong to the user, not the tab, and survive reloads, new tabs and a suspended machine | TypeScript · Manifest V3 · Vite · Vitest |
 | [familia-ponquesito](https://github.com/wiljmorales/familia-ponquesito) | Product site and quote-request flow for a family bakery in Barquisimeto, built for the Platzi Vibe Coding Challenge — [live](https://familia-ponquesito.vercel.app) | Next.js · TypeScript · Supabase |
 | [nuestro-cofrecito](https://github.com/wiljmorales/nuestro-cofrecito) | Income-proportional expense calculator for couples — zero dependencies, zero build, no runtime network calls — [live](https://nuestro-cofrecito.vercel.app) | Vanilla JS · CSS · localStorage |
